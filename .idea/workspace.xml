@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c527fa0b-c5bd-4f16-a863-6a2b1fe35491" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/api/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="C:\xampp\php\php.exe">
+    <include_path>
+      <path value="$PROJECT_DIR$/api/vendor/squizlabs/php_codesniffer" />
+      <path value="$PROJECT_DIR$/api/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/api/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/api/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/api/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/api/vendor/nikic/fast-route" />
+      <path value="$PROJECT_DIR$/api/vendor/sebastian/lines-of-code" />
+      <path value="$PROJECT_DIR$/api/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/api/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/api/vendor/sebastian/code-unit" />
+      <path value="$PROJECT_DIR$/api/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/api/vendor/sebastian/cli-parser" />
+      <path value="$PROJECT_DIR$/api/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/api/vendor/sebastian/complexity" />
+      <path value="$PROJECT_DIR$/api/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/api/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/api/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/api/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/api/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/api/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/api/vendor/composer" />
+      <path value="$PROJECT_DIR$/api/vendor/laravel/serializable-closure" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/api/vendor/php-di/php-di" />
+      <path value="$PROJECT_DIR$/api/vendor/php-di/phpdoc-reader" />
+      <path value="$PROJECT_DIR$/api/vendor/php-di/invoker" />
+      <path value="$PROJECT_DIR$/api/vendor/fig/http-message-util" />
+      <path value="$PROJECT_DIR$/api/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/api/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/api/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/api/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/api/vendor/psr/http-server-middleware" />
+      <path value="$PROJECT_DIR$/api/vendor/psr/http-server-handler" />
+      <path value="$PROJECT_DIR$/api/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/api/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/api/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/api/vendor/psr/http-factory" />
+      <path value="$PROJECT_DIR$/api/vendor/phpunit/php-invoker" />
+      <path value="$PROJECT_DIR$/api/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/api/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/api/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/api/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/api/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/api/vendor/doctrine/deprecations" />
+      <path value="$PROJECT_DIR$/api/vendor/phpstan/extension-installer" />
+      <path value="$PROJECT_DIR$/api/vendor/phpstan/phpstan" />
+      <path value="$PROJECT_DIR$/api/vendor/phpstan/phpdoc-parser" />
+      <path value="$PROJECT_DIR$/api/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/api/vendor/phpspec/prophecy-phpunit" />
+      <path value="$PROJECT_DIR$/api/vendor/jangregor/phpstan-prophecy" />
+      <path value="$PROJECT_DIR$/api/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/api/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/api/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/api/vendor/slim/slim" />
+      <path value="$PROJECT_DIR$/api/vendor/slim/psr7" />
+      <path value="$PROJECT_DIR$/api/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/api/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/api/vendor/phpdocumentor/reflection-common" />
+    </include_path>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2dy7fqnsRpeAJF0aBKlJyFExQnY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/xampp_php_8.2/htdocs/TutoSymfony",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner configuration_file="$PROJECT_DIR$/api/phpunit.xml" scope="XML" use_alternative_configuration_file="true" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-php-predefined-ba97393d7c68-6f8e3395a2b4-com.jetbrains.php.sharedIndexes-PS-233.14808.18" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c527fa0b-c5bd-4f16-a863-6a2b1fe35491" name="Changes" comment="" />
+      <created>1710968575802</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710968575802</updated>
+      <workItem from="1710968578150" duration="1826000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
